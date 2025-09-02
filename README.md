@@ -106,3 +106,10 @@ You can easily customize the agent's knowledge and logic by editing the followin
 * `rules.yaml`: Adjust the thresholds for the epidemiological rules.
 * `farm_data.csv`: Add or update information about your farm fields.
 * `literature/`: Add or edit the `.txt` files to expand the agent's knowledge base.
+
+---
+
+## Contact
+
+Jorge Luis Alonso G.
+[LinkedIn](https://www.linkedin.com/in/jorgeluisalonso/)
