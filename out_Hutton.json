@@ -1,0 +1,17 @@
+{
+  "rule_set": "Hutton",
+  "days": 4,
+  "result": {
+    "rule": "Hutton",
+    "triggered": true,
+    "details": {
+      "consecutive_true_max": 2,
+      "required_consecutive_days": 2,
+      "days_meeting_criteria": [
+        "2025-03-11",
+        "2025-03-12"
+      ]
+    }
+  },
+  "summary": "Hutton triggered: True (run=2/2)"
+}

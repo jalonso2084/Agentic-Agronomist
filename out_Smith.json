@@ -1,0 +1,14 @@
+{
+  "rule_set": "Smith",
+  "days": 4,
+  "result": {
+    "rule": "Smith",
+    "triggered": false,
+    "details": {
+      "consecutive_true_max": 0,
+      "required_consecutive_days": 2,
+      "days_meeting_criteria": []
+    }
+  },
+  "summary": "Smith triggered: False (run=0/2)"
+}

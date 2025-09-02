@@ -1,0 +1,17 @@
+(Page 3, Section B: Organic Compliance)
+
+“For a potato crop to be certified organic in Canada, growers must adhere to strict protocols.”
+
+Finding: Organic products sold in Canada must be certified to the Canadian Organic Standards CAN/CGSB-32.310 and CAN/CGSB-32.311 under the Canada Organic Regime (CFIA). The standards set detailed compliance requirements and are the basis for certification. 
+
+“Synthetic fungicides such as Mancozeb and Chlorothalonil are strictly prohibited.”
+
+Finding: The standards allow only substances listed on the Permitted Substances Lists (PSL, CAN/CGSB-32.311). Any crop production aid not listed is prohibited (CAN/CGSB-32.310 §1.5(c)). Mancozeb and chlorothalonil are not on the PSL for crop production; using non-listed fungicides violates the standard. (Operators must also document any government-mandated use of a non-listed pest control substance, but that does not make the crop organic.) 
+
+“Approved preventative measures include copper-based sprays (e.g., Copper Hydroxide) and biological agents.”
+
+Finding: The PSL explicitly permits copper (production aid)—including copper hydroxide—for controlling pests/diseases, with restrictions (avoid soil copper buildup; no visible residues on harvested crops). The PSL also permits microorganisms and microbial products (e.g., Bacillus thuringiensis, virus sprays, spinosad) for crop protection. 
+
+“Field history and buffer zones are also critical for organic compliance.”
+
+Finding: Land used for organic crops must have no prohibited substances for at least 36 months before harvest (CAN/CGSB-32.310 §5.1.1). Where contamination risk exists, buffer zones are required; the standard specifies at least 8 m (or physical barriers) and that crops from buffers are not organic (CAN/CGSB-32.310 §5.2.1–5.2.2). 

@@ -1,0 +1,19 @@
+{
+  "rule_set": "LocalAndes",
+  "days": 4,
+  "result": {
+    "rule": "LocalAndes",
+    "triggered": false,
+    "risk_label": "Low",
+    "details": {
+      "consecutive_true_max": 0,
+      "days_meeting_criteria": [],
+      "thresholds": {
+        "rh_threshold": 80,
+        "min_temp_c": 15.0,
+        "min_hours_per_day": 8
+      }
+    }
+  },
+  "summary": "LocalAndes risk: Low (days meeting criteria: 0)"
+}

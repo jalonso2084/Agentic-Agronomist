@@ -1,0 +1,20 @@
+**Mancozeb (e.g., Dithane Rainshield, Manzate, Penncozeb)**
+- Status: Listed by the BC Ministry for late blight programs.
+- Targets: Early blight (Alternaria solani) and late blight (Phytophthora infestans).
+- Interval: 7–10 days, can shorten to 5–6 days in high-risk periods. Programs typically begin when plants are 10–15 cm high.
+- Limits: PHI 3 days, REI 24 h, max 8 applications/season (always check specific product label).
+
+**Chlorothalonil (e.g., Bravo 500/ZN, Echo 720)**
+- Status: Included in the BC Ministry's late blight table.
+- Targets: Preventive control of late blight; some labels include early blight (often via tank mixes).
+- Interval: 7–10 days.
+- Limits: PHI 2 days, REI 48 h (check specific product label for seasonal caps).
+
+**Copper Hydroxide (e.g., Kocide 2000, Kocide 2000-O)**
+- Status: Listed by the BC Ministry for late blight programs.
+- Targets: Early blight and late blight.
+- Limits: Interval 7–10 days, PHI 2 days, REI 48 h, max 10 applications/season (per Kocide 2000-O label).
+- Organic Use: Permitted for organic production in Canada (CAN/CGSB-32.311), but operators must avoid soil copper buildup. Certification bodies may have additional conditions.
+
+**General Note on Rainfastness**
+- Most registered fungicides for late blight are non-systemic (contact/protectant) and can be washed off by rain or irrigation. Spray intervals should be planned accordingly.

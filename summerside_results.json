@@ -1,0 +1,14 @@
+{
+  "rule_set": "Hutton",
+  "days": 7,
+  "result": {
+    "rule": "Hutton",
+    "triggered": false,
+    "details": {
+      "consecutive_true_max": 0,
+      "required_consecutive_days": 2,
+      "days_meeting_criteria": []
+    }
+  },
+  "summary": "Hutton triggered: False (run=0/2)"
+}

@@ -1,0 +1,5 @@
+field_id,farm_name,potato_variety,last_spray_date,fungicide_sprayed,is_organic_compliant
+FIELD_001,North Ridge Farm,Russet Burbank,2025-08-15,Copper Hydroxide,True
+FIELD_002,Green Valley,Kennebec,2025-08-25,Mancozeb,False
+FIELD_003,North Ridge Farm,Yukon Gold,2025-08-22,Chlorothalonil,False
+FIELD_004,Green Valley,Ranger Russet,2025-08-18,Copper Hydroxide,True
